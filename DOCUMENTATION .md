@@ -101,7 +101,7 @@ A single-sheet, presentation-style **Dashboard** tab with:
 
 ## 🔗 Related Files
 
-- [`README.md`](README.md) — project overview, KPI table, dashboard components, slicer summary
+- [`README.md`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/README.md) — project overview, KPI table, dashboard components, slicer summary
 - [`docs/SLICER_GUIDE.md`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/SLICER_GUIDE.md) — full step-by-step build guide for KPI cards and slicers
 - [`dashboard/zepto_sales_Dashboard.xlsx`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/zepto_sales_Dashboard.xlsx)— final Excel dashboard file
 - [`data/zepto_sales_raw_table.xlsx`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/zepto_sales_raw%20table.xlsx)— source dataset
