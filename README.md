@@ -76,7 +76,7 @@ Slicers are arranged along the right/left panel of the dashboard sheet, styled t
 8. **Repeat** steps 2–7 for each remaining slicer.
 9. **Test** — click a slicer button (e.g. "Delivered") and confirm every connected chart and KPI updates together.
 
-📄 **Full step-by-step build guide (KPI cards + slicers, from scratch):** [`docs/SLICER_GUIDE.md`](docs/SLICER_GUIDE.md)
+📄 **Full step-by-step build guide (KPI cards + slicers, from scratch):** [`docs/SLICER_GUIDE.md`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/SLICER_GUIDE.md)
 
 ---
 
@@ -118,8 +118,8 @@ zepto-sales-dashboard/
 2. Open `dashboard/zepto_sales_Dashboard.xlsx` in Microsoft Excel.
 3. Use the **slicers** to filter by Payment Method, Delivery Status, Customer Segment, or Customer Type.
 4. All KPI cards and charts update automatically based on your selection.
-5. To rebuild the dashboard from scratch, follow [`docs/SLICER_GUIDE.md`](docs/SLICER_GUIDE.md).
-6. For the analysis approach, cleaning steps, and insights, see [`DOCUMENTATION.md`](DOCUMENTATION.md).
+5. To rebuild the dashboard from scratch, follow [`docs/SLICER_GUIDE.md`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/SLICER_GUIDE.md).
+6. For the analysis approach, cleaning steps, and insights, see [`DOCUMENTATION.md`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/DOCUMENTATION%20.md).
 
 ---
 
