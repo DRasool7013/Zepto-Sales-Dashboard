@@ -47,7 +47,7 @@ This dashboard gives a **360° view of sales operations** — from revenue and o
 | Top 10 Orders by Sales Value | Horizontal Bar | Highest value orders ranked |
 | Orders by Customer Segment & Delivery Status | Clustered Column | Cancelled / Delivered / Failed / Returned orders, split by customer segment |
 
-For the full list of business questions this dashboard (and its extensions) was designed to answer, see [`DOCUMENTATION.md`](DOCUMENTATION.md#-analysis-questions).
+For the full list of business questions this dashboard (and its extensions) was designed to answer, see [`DOCUMENTATION.md`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/DOCUMENTATION%20.md).
 
 ---
 
