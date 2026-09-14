@@ -18,7 +18,7 @@ Build a fully interactive, formula-and-slicer-driven **Excel sales dashboard** f
 
 ## 🗃️ Dataset Description
 
-**Source file:** `data/zepto_sales_raw_table.xlsx`
+**Source file:** [`data/zepto_sales_raw_table.xlsx`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/zepto_sales_raw%20table.xlsx)
 
 The raw dataset is a transaction-level table of Zepto sales orders, with one row per order line, including fields such as:
 
@@ -104,4 +104,4 @@ A single-sheet, presentation-style **Dashboard** tab with:
 - [`README.md`](README.md) — project overview, KPI table, dashboard components, slicer summary
 - [`docs/SLICER_GUIDE.md`](docs/SLICER_GUIDE.md) — full step-by-step build guide for KPI cards and slicers
 - [`dashboard/zepto_sales_Dashboard.xlsx`](dashboard/zepto_sales_Dashboard.xlsx) — final Excel dashboard file
-- [`data/zepto_sales_raw_table.xlsx`](data/zepto_sales_raw_table.xlsx) — source dataset
+- [`data/zepto_sales_raw_table.xlsx`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/zepto_sales_raw%20table.xlsx)— source dataset
