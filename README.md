@@ -2,7 +2,7 @@
 
 An interactive **Excel sales analytics dashboard** for **Zepto**, built to track sales performance, customer behavior, order fulfillment, and payment trends using **PivotTables, PivotCharts, and Slicers** — a fully click-to-filter dashboard with no external tools or formulas required by the end user.
 
-![Zepto Sales Dashboard](assets/dashboard-preview.png)
+![Zepto Sales Dashboard](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/Zepto%20Sales%20Dashboard.png)
 
 ---
 
@@ -13,8 +13,8 @@ This dashboard gives a **360° view of sales operations** — from revenue and o
 | | |
 |---|---|
 | **Tool used** | Microsoft Excel (PivotTables, PivotCharts, Slicers) |
-| **Data source** | `data/zepto_sales_raw_table.xlsx` |
-| **Final dashboard** | `dashboard/zepto_sales_Dashboard.xlsx`[`dashboard/zepto_sales_Dashboard.xlsx`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/zepto_sales_Dashboard.xlsx). 
+| **Data source** | [`data/zepto_sales_raw_table.xlsx`]().  |
+| **Final dashboard** [`dashboard/zepto_sales_Dashboard.xlsx`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/zepto_sales_Dashboard.xlsx). |
 | **Dashboard title** | "ZEPTO SALES DASHBOARD" |
 
 ---
