@@ -14,7 +14,7 @@ This dashboard gives a **360° view of sales operations** — from revenue and o
 |---|---|
 | **Tool used** | Microsoft Excel (PivotTables, PivotCharts, Slicers) |
 | **Data source** | `data/zepto_sales_raw_table.xlsx` |
-| **Final dashboard** | `dashboard/zepto_sales_Dashboard.xlsx` |
+| **Final dashboard** | `dashboard/zepto_sales_Dashboard.xlsx`[`dashboard/zepto_sales_Dashboard.xlsx`](https://github.com/DRasool7013/Zepto-Sales-Dashboard/blob/main/zepto_sales_Dashboard.xlsx). 
 | **Dashboard title** | "ZEPTO SALES DASHBOARD" |
 
 ---
